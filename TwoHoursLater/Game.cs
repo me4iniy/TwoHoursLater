@@ -8,6 +8,9 @@ namespace TwoHoursLater
 {
     public static class Game
     {
+        public static void Message()
+        {
 
+        }
     }
 }
